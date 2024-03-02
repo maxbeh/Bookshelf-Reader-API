@@ -1,3 +1,6 @@
+# Max adaptation
+This is an adaptation of Lakshya Khatri original build.
+
 # Bookshelf-Reader-API
 A browsable REST API built using Django REST Framework for recognizing book spines in an image.
 
